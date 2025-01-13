@@ -1,3 +1,8 @@
+*This is a rapidly evolving project - content from previous recordings may become outdated. If you can't find specific materials mentioned in recordings, please start a [discussion](https://github.com/tqec/tqec/discussions). For issues with the current documentation or code, first verify the problem exists in the latest version, then [open an issue](https://github.com/tqec/tqec/issues/new/choose).*
+
+---
+
+
 # TQEC
 
 TQEC(Topological Quantum Error Correction) is a design automation software for representing,
